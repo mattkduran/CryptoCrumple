@@ -1,6 +1,5 @@
 
 from Crypto.Hash import SHA256
-from datetime import datetime
 import Crypto.Random
 import json
 
@@ -13,10 +12,13 @@ class Encrypt:
         nonce = ''
         cipher = ''
 
-    def encrypt(data):
-        data = bytes(data, 'UTF-8')
-        cipher = SHA256.new(data)
-        return cipher.digest()
+    def crumple(raw, padding, nonce):
+        sysTime = '20190903' # Clocktime for implementation
+        k0 = SHA256.new(nonce) # Generate a new SHA256 'key' with nonce
+        k0.update(bytes(str(raw), 'UTF-8') + bytes(str(padding), 'UTF-*8')) # Add in random data and padding
+        hash = str(k0.hexdigest()) + str(nonce) # Pad on the nonce as the check post brute force
+        k1 = SHA256.new(bytes(hash, 'UTF-8') + bytes(sysTime, 'UTF-8')) # Abrasion with system time added on, then run through SHA256
+        return k1.hexdigest()
 
     def load_in(self):
         file = open("/home/main/PycharmProjects/Crypto/log.json", "r")
@@ -44,12 +46,12 @@ class Encrypt:
 
         for i in range(index):
             if word in Encrypt.dataList[i].values():
-                #print("Here it is!")
                 for key, item in Encrypt.dataList[i].items():
                     if item == word:
                         print("Found in ", key)
                         print(Encrypt.dataList[i])
 
+        print("\n\n######")
         return
 
     def search_header(self):
@@ -62,19 +64,21 @@ class Encrypt:
         for i in range(headerIndex):
             print(str(i), ": ", Encrypt.headers[i])
         choice = input("Enter choice: ")
-        term = Encrypt.headers[int(choice)]
-
-        for i in range(logIndex):
-            for j in Encrypt.dataList[i]:
-                if term in Encrypt.dataList[i]:
-                    print("Index: ", Encrypt.dataList[i]['index'])
-                    print(Encrypt.dataList[i])
+        if int(choice) <= headerIndex - 1:
+            term = Encrypt.headers[int(choice)]
+            for i in range(logIndex):
+                for j in Encrypt.dataList[i]:
+                    if term in Encrypt.dataList[i]:
+                        print("Index: ", Encrypt.dataList[i]['index'])
+                        print(Encrypt.dataList[i])
+        else:
+            print("Choice out of range, dropping to main menu.")
         print("\n","\n")
 
         return
 
     def gen_nonce():
-        random = Crypto.Random.get_random_bytes(8)
+        random = Crypto.Random.get_random_bytes(16)
         return random
 
     def hide_values(self):
@@ -93,7 +97,12 @@ class Encrypt:
             for key in Encrypt.dataList[i]:
                 if key in keywords:
                     data = Encrypt.dataList[i].get(key)
-                    Encrypt.dataList[i][key] = Encrypt.encrypt(data)
+                    nonce = Encrypt.dataList[i].get('nonce')
+                    if key == '_SOURCE_REALTIME_TIMESTAMP':
+                        padding = Encrypt.dataList[i]['_SOURCE_REALTIME_TIMESTAMP']
+                    else:
+                        padding = Crypto.Random.get_random_bytes(16)
+                    Encrypt.dataList[i][key] = Encrypt.crumple(data, padding, nonce)
         return
 
     def print_values(self):
@@ -126,8 +135,11 @@ def menu():
             obj.search_keyword()
         elif choice == '3':
             obj.print_values()
-        else:
+        elif choice.lower() == 'q':
             print("Quitting program.")
+            break
+        else:
+            print("Unknown option, quitting program.")
             break
     return
 
