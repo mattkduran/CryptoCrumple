@@ -4,6 +4,7 @@ from systemd import journal
 from pprint import pprint
 import Crypto.Random
 import os
+import uuid
 import datetime
 
 class Encrypt:
@@ -31,7 +32,7 @@ class Encrypt:
         return
 
     def abrasion(crumpled):
-        sysTime = '20190903'  # Clocktime for implementation
+        sysTime = str(datetime.date.today().year) + hex(uuid.getnode())  # Clocktime for implementation
         k1 = SHA256.new(bytes(crumpled, 'UTF-8') + bytes(sysTime, 'UTF-8'))
         return k1.hexdigest()
 
