@@ -1,5 +1,4 @@
 from menu import menu
-from crumpleService import service
 import systemCheck
 
 def main():
