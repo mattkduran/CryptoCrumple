@@ -7,6 +7,7 @@ systemCheck = {
     "python3.5 -c \"import pprint\"": 0,
     "python3.5 -c \"import pickle\"": 0,
     "python3.5 -c \"import gc\"": 0,
+    "python3.5 -c \"import progressbar\"": 0,
     "dpkg-query -l | grep systemd >> /dev/null": 0}
 
 def checkup():

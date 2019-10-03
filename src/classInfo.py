@@ -7,6 +7,7 @@ import os
 import datetime
 import pickle
 import gc
+import progressbar
 
 
 # classInfo contains the Encrypt class for the CryptoCrumple program.
@@ -109,6 +110,7 @@ class Encrypt:
                     '_COMM',
                     '_SYSTEMD_UNIT']
         index = len(Encrypt.dataList)
+        bar = progressbar.ProgressBar(max_value=index)
         for i in range(index):
             for key in Encrypt.dataList[i]:
                 if key in keywords:
@@ -116,11 +118,13 @@ class Encrypt:
                     nonce = Encrypt.dataList[i].get('nonce')
                     padding = Crypto.Random.get_random_bytes(16)
                     Encrypt.dataList[i][key] = Encrypt.crumple(data, padding, nonce)
+            bar.update(i)
             del padding
             del nonce
             del data
         del index
         del keywords
+        del bar
         gc.collect()
         return
 # write_out only takes itself as a parameter.
@@ -128,13 +132,17 @@ class Encrypt:
 # log.bin is located in the logs folder, all data is written in binary format. write_out 
 # is called after all necessary data is encrypted.
     def write_out(self):
-        file = "../logs/log.bin"
-        with open(file, 'ab') as outfile:
-            for i in range(len(Encrypt.dataList)):
-                pickle.dump(Encrypt.dataList[i], outfile, protocol=pickle.HIGHEST_PROTOCOL)
+        file = "log.bin"
+        os.chdir("../logs/")
+        try:
+            with open(file, 'ab') as outfile:
+                for i in range(len(Encrypt.dataList)):
+                    pickle.dump(Encrypt.dataList[i], outfile, protocol=pickle.HIGHEST_PROTOCOL)
+        except IOError:
+            print("log.bin not found")
         del file
-        del outfile
         gc.collect()
+        os.chdir("../src/")
         return
 
 # load_in_from_file only takes itself as a parameter.
@@ -142,16 +150,32 @@ class Encrypt:
 # log.bin is located in the logs folder, all data is written in binary format. All data stored 
 # in log.bin is appended to dataList with the pickle function. 
     def load_in_from_file(self):
-        file = "../logs/log.bin"
-        with open(file, 'rb') as infile:
-            infile.seek(0)
-            while True:
-                try:
+        file = "log.bin"
+        unsorted = []
+        count = 0
+        os.chdir("../logs/")
+        bar = progressbar.ProgressBar(redirect_stdout=True,
+                                      max_value=progressbar.UnknownLength)
+        try:
+            with open(file, 'rb') as infile:
+                infile.seek(0)
+                while True:
                     Encrypt.dataList.append(pickle.load(infile))
-                except EOFError:
-                    print("Reached end of file")
-                    break
+                    count += 1
+                    bar.update(count)
+                    for key in Encrypt.dataList:
+                        if key not in unsorted:
+                            unsorted.append(key)
+        except IOError:
+            print("log.bin not found")
+        except EOFError:
+            print("Expected more file but reached end")
+        Encrypt.headers = sorted(unsorted)
+        del unsorted
         del file
+        del bar
+        del count
+        os.chdir("../src")
         gc.collect()
         return
 

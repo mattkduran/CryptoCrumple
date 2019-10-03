@@ -1,0 +1,4835 @@
+000000
+0
+2019-10-01 21:57:07.389404 Journald size: 0
+2019-10-01 21:57:23.484739 Log size: 0
+2019-10-01 21:57:24.501825 Journald size: 0
+2019-10-01 22:00:41.222892 Journald size: 0
+2019-10-01 22:01:48.213354 Journald size: 0
+2019-10-01 22:02:27.024049 Log size: 0
+  File: /var/log/journal/f5298e06c9e74d7093fc818f09b1bca7/
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: fe02h/65026d	Inode: 138512      Links: 2
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-10-01 22:05:02.552662393 -0700
+Modify: 2019-10-01 22:05:02.548662281 -0700
+Change: 2019-10-01 22:05:02.548662281 -0700
+ Birth: -
+  File: /home/main/PycharmProjects/CryptoCrumple/logs/log.bin
+  Size: 288153    	Blocks: 568        IO Block: 4096   regular file
+Device: fe05h/65029d	Inode: 13768165    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    main)   Gid: ( 1000/    main)
+Access: 2019-10-01 22:06:40.435261618 -0700
+Modify: 2019-10-01 22:06:46.631416759 -0700
+Change: 2019-10-01 22:06:46.631416759 -0700
+ Birth: -
+2019-10-01 22:05:49.890769 Journald size: 0
+2019-10-01 22:06:46.676413 Log size: 0
+  File: /var/log/journal/f5298e06c9e74d7093fc818f09b1bca7/
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: fe02h/65026d	Inode: 138512      Links: 2
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-10-01 22:07:46.136855496 -0700
+Modify: 2019-10-01 22:07:46.136855496 -0700
+Change: 2019-10-01 22:07:46.136855496 -0700
+ Birth: -
+  File: /home/main/PycharmProjects/CryptoCrumple/logs/log.bin
+  Size: 400303    	Blocks: 784        IO Block: 4096   regular file
+Device: fe05h/65029d	Inode: 13768165    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    main)   Gid: ( 1000/    main)
+Access: 2019-10-01 22:07:27.268409023 -0700
+Modify: 2019-10-01 22:09:12.606796381 -0700
+Change: 2019-10-01 22:09:12.606796381 -0700
+ Birth: -
+
+
+  File: /var/log/journal/f5298e06c9e74d7093fc818f09b1bca7/
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: fe02h/65026d	Inode: 138512      Links: 2
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-10-01 22:10:18.800177693 -0700
+Modify: 2019-10-01 22:10:18.800177693 -0700
+Change: 2019-10-01 22:10:18.800177693 -0700
+ Birth: -
+  File: /home/main/PycharmProjects/CryptoCrumple/logs/log.bin
+  Size: 432436    	Blocks: 856        IO Block: 4096   regular file
+Device: fe05h/65029d	Inode: 13768165    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    main)   Gid: ( 1000/    main)
+Access: 2019-10-01 22:10:00.483803762 -0700
+Modify: 2019-10-01 22:10:54.492889303 -0700
+Change: 2019-10-01 22:10:54.492889303 -0700
+ Birth: -
+
+
+  File: /var/log/journal/f5298e06c9e74d7093fc818f09b1bca7/
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: fe02h/65026d	Inode: 138512      Links: 2
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-10-01 22:10:40.420611365 -0700
+Modify: 2019-10-01 22:10:40.420611365 -0700
+Change: 2019-10-01 22:10:40.420611365 -0700
+ Birth: -
+  File: /home/main/PycharmProjects/CryptoCrumple/logs/log.bin
+  Size: 475612    	Blocks: 944        IO Block: 4096   regular file
+Device: fe05h/65029d	Inode: 13768165    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    main)   Gid: ( 1000/    main)
+Access: 2019-10-01 22:10:00.483803762 -0700
+Modify: 2019-10-01 22:11:20.601396283 -0700
+Change: 2019-10-01 22:11:20.601396283 -0700
+ Birth: -
+
+
+  File: /var/log/journal/f5298e06c9e74d7093fc818f09b1bca7/
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: fe02h/65026d	Inode: 138512      Links: 2
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-10-01 22:11:10.193195502 -0700
+Modify: 2019-10-01 22:11:04.725089318 -0700
+Change: 2019-10-01 22:11:04.725089318 -0700
+ Birth: -
+  File: /home/main/PycharmProjects/CryptoCrumple/logs/log.bin
+  Size: 588481    	Blocks: 1160       IO Block: 4096   regular file
+Device: fe05h/65029d	Inode: 13768165    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    main)   Gid: ( 1000/    main)
+Access: 2019-10-01 22:10:00.483803762 -0700
+Modify: 2019-10-01 22:12:32.886745171 -0700
+Change: 2019-10-01 22:12:32.886745171 -0700
+ Birth: -
+
+
+  File: /var/log/journal/f5298e06c9e74d7093fc818f09b1bca7/
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: fe02h/65026d	Inode: 138512      Links: 2
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-10-01 22:11:31.465604029 -0700
+Modify: 2019-10-01 22:11:31.465604029 -0700
+Change: 2019-10-01 22:11:31.465604029 -0700
+ Birth: -
+  File: /home/main/PycharmProjects/CryptoCrumple/logs/log.bin
+  Size: 834832    	Blocks: 1640       IO Block: 4096   regular file
+Device: fe05h/65029d	Inode: 13768165    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    main)   Gid: ( 1000/    main)
+Access: 2019-10-01 22:10:00.483803762 -0700
+Modify: 2019-10-01 22:13:32.995811552 -0700
+Change: 2019-10-01 22:13:32.995811552 -0700
+ Birth: -
+
+
+  File: /var/log/journal/f5298e06c9e74d7093fc818f09b1bca7/
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: fe02h/65026d	Inode: 138512      Links: 2
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-10-01 22:13:05.295325943 -0700
+Modify: 2019-10-01 22:12:43.246932358 -0700
+Change: 2019-10-01 22:12:43.246932358 -0700
+ Birth: -
+  File: /home/main/PycharmProjects/CryptoCrumple/logs/log.bin
+  Size: 1494891   	Blocks: 2928       IO Block: 4096   regular file
+Device: fe05h/65029d	Inode: 13768165    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    main)   Gid: ( 1000/    main)
+Access: 2019-10-01 22:10:00.483803762 -0700
+Modify: 2019-10-01 22:15:28.717744143 -0700
+Change: 2019-10-01 22:15:28.717744143 -0700
+ Birth: -
+
+
+  File: /var/log/journal/f5298e06c9e74d7093fc818f09b1bca7/
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: fe02h/65026d	Inode: 138512      Links: 2
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-10-01 22:13:44.976018634 -0700
+Modify: 2019-10-01 22:13:44.972018565 -0700
+Change: 2019-10-01 22:13:44.972018565 -0700
+ Birth: -
+  File: /home/main/PycharmProjects/CryptoCrumple/logs/log.bin
+  Size: 3275401   	Blocks: 6408       IO Block: 4096   regular file
+Device: fe05h/65029d	Inode: 13768165    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    main)   Gid: ( 1000/    main)
+Access: 2019-10-01 22:10:00.483803762 -0700
+Modify: 2019-10-01 22:17:40.927793035 -0700
+Change: 2019-10-01 22:17:40.927793035 -0700
+ Birth: -
+
+
+  File: /var/log/journal/f5298e06c9e74d7093fc818f09b1bca7/
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: fe02h/65026d	Inode: 138512      Links: 2
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-10-01 22:17:01.363195367 -0700
+Modify: 2019-10-01 22:15:40.201928289 -0700
+Change: 2019-10-01 22:15:40.201928289 -0700
+ Birth: -
+  File: /home/main/PycharmProjects/CryptoCrumple/logs/log.bin
+  Size: 8239751   	Blocks: 16104      IO Block: 4096   regular file
+Device: fe05h/65029d	Inode: 13768165    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    main)   Gid: ( 1000/    main)
+Access: 2019-10-01 22:10:00.483803762 -0700
+Modify: 2019-10-01 22:20:05.817887427 -0700
+Change: 2019-10-01 22:20:05.817887427 -0700
+ Birth: -
+
+
+  File: /var/log/journal/f5298e06c9e74d7093fc818f09b1bca7/
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: fe02h/65026d	Inode: 138512      Links: 2
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-10-01 22:19:01.524974960 -0700
+Modify: 2019-10-01 22:17:51.899956652 -0700
+Change: 2019-10-01 22:17:51.899956652 -0700
+ Birth: -
+  File: /home/main/PycharmProjects/CryptoCrumple/logs/log.bin
+  Size: 22293019  	Blocks: 43552      IO Block: 4096   regular file
+Device: fe05h/65029d	Inode: 13768165    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    main)   Gid: ( 1000/    main)
+Access: 2019-10-01 22:10:00.483803762 -0700
+Modify: 2019-10-01 22:23:17.568479806 -0700
+Change: 2019-10-01 22:23:17.568479806 -0700
+ Birth: -
+
+
+  File: /var/log/journal/f5298e06c9e74d7093fc818f09b1bca7/
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: fe02h/65026d	Inode: 138512      Links: 2
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-10-01 22:20:17.362048691 -0700
+Modify: 2019-10-01 22:20:17.358048636 -0700
+Change: 2019-10-01 22:20:17.358048636 -0700
+ Birth: -
+  File: /home/main/PycharmProjects/CryptoCrumple/logs/log.bin
+  Size: 62463110  	Blocks: 122008     IO Block: 4096   regular file
+Device: fe05h/65029d	Inode: 13768165    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    main)   Gid: ( 1000/    main)
+Access: 2019-10-01 22:10:00.483803762 -0700
+Modify: 2019-10-01 22:27:44.623858744 -0700
+Change: 2019-10-01 22:27:44.623858744 -0700
+ Birth: -
+
+
+  File: /var/log/journal/f5298e06c9e74d7093fc818f09b1bca7/
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: fe02h/65026d	Inode: 138512      Links: 2
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-10-01 22:24:46.125624895 -0700
+Modify: 2019-10-01 22:23:31.504661908 -0700
+Change: 2019-10-01 22:23:31.504661908 -0700
+ Birth: -
+
+  File: /var/log/journal/f5298e06c9e74d7093fc818f09b1bca7/
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: fe02h/65026d	Inode: 138512      Links: 2
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-10-01 22:29:45.181323816 -0700
+Modify: 2019-10-01 22:29:45.181323816 -0700
+Change: 2019-10-01 22:29:45.181323816 -0700
+ Birth: -
+  File: /home/main/PycharmProjects/CryptoCrumple/logs/log.bin
+  Size: 62563029  	Blocks: 122208     IO Block: 4096   regular file
+Device: fe05h/65029d	Inode: 13768165    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    main)   Gid: ( 1000/    main)
+Access: 2019-10-01 22:10:00.483803762 -0700
+Modify: 2019-10-01 22:30:39.189971123 -0700
+Change: 2019-10-01 22:30:39.189971123 -0700
+ Birth: -
+
+
+  File: /var/log/journal/f5298e06c9e74d7093fc818f09b1bca7/
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: fe02h/65026d	Inode: 138512      Links: 2
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-10-01 22:30:39.341972938 -0700
+Modify: 2019-10-01 22:30:39.337972890 -0700
+Change: 2019-10-01 22:30:39.337972890 -0700
+ Birth: -
+
+  File: /var/log/journal/f5298e06c9e74d7093fc818f09b1bca7/
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: fe02h/65026d	Inode: 138512      Links: 2
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-10-01 22:31:26.014528421 -0700
+Modify: 2019-10-01 22:31:26.014528421 -0700
+Change: 2019-10-01 22:31:26.014528421 -0700
+ Birth: -
+  File: /home/main/PycharmProjects/CryptoCrumple/logs/log.bin
+  Size: 62617823  	Blocks: 122312     IO Block: 4096   regular file
+Device: fe05h/65029d	Inode: 13768165    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    main)   Gid: ( 1000/    main)
+Access: 2019-10-01 22:10:00.483803762 -0700
+Modify: 2019-10-01 22:32:22.511196473 -0700
+Change: 2019-10-01 22:32:22.511196473 -0700
+ Birth: -
+
+
+  File: /var/log/journal/f5298e06c9e74d7093fc818f09b1bca7/
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: fe02h/65026d	Inode: 138512      Links: 2
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-10-01 22:32:11.611067933 -0700
+Modify: 2019-10-01 22:32:11.607067885 -0700
+Change: 2019-10-01 22:32:11.607067885 -0700
+ Birth: -
+  File: /home/main/PycharmProjects/CryptoCrumple/logs/log.bin
+  Size: 62620744  	Blocks: 122320     IO Block: 4096   regular file
+Device: fe05h/65029d	Inode: 13768165    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    main)   Gid: ( 1000/    main)
+Access: 2019-10-01 22:10:00.483803762 -0700
+Modify: 2019-10-01 22:32:36.507361290 -0700
+Change: 2019-10-01 22:32:36.507361290 -0700
+ Birth: -
+
+
+  File: /var/log/journal/f5298e06c9e74d7093fc818f09b1bca7/
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: fe02h/65026d	Inode: 138512      Links: 2
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-10-01 22:32:32.919319063 -0700
+Modify: 2019-10-01 22:32:32.919319063 -0700
+Change: 2019-10-01 22:32:32.919319063 -0700
+ Birth: -
+  File: /home/main/PycharmProjects/CryptoCrumple/logs/log.bin
+  Size: 62623791  	Blocks: 122328     IO Block: 4096   regular file
+Device: fe05h/65029d	Inode: 13768165    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    main)   Gid: ( 1000/    main)
+Access: 2019-10-01 22:10:00.483803762 -0700
+Modify: 2019-10-01 22:32:48.835506252 -0700
+Change: 2019-10-01 22:32:48.835506252 -0700
+ Birth: -
+
+
+  File: /var/log/journal/f5298e06c9e74d7093fc818f09b1bca7/
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: fe02h/65026d	Inode: 138512      Links: 2
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-10-01 22:32:46.903483547 -0700
+Modify: 2019-10-01 22:32:46.899483500 -0700
+Change: 2019-10-01 22:32:46.899483500 -0700
+ Birth: -
+  File: /home/main/PycharmProjects/CryptoCrumple/logs/log.bin
+  Size: 62626867  	Blocks: 122328     IO Block: 4096   regular file
+Device: fe05h/65029d	Inode: 13768165    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    main)   Gid: ( 1000/    main)
+Access: 2019-10-01 22:10:00.483803762 -0700
+Modify: 2019-10-01 22:33:02.811670358 -0700
+Change: 2019-10-01 22:33:02.811670358 -0700
+ Birth: -
+
+
+  File: /var/log/journal/f5298e06c9e74d7093fc818f09b1bca7/
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: fe02h/65026d	Inode: 138512      Links: 2
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-10-01 22:35:37.394581601 -0700
+Modify: 2019-10-01 22:35:37.394581601 -0700
+Change: 2019-10-01 22:35:37.394581601 -0700
+ Birth: -
+  File: /home/main/PycharmProjects/CryptoCrumple/logs/log.bin
+  Size: 53124     	Blocks: 104        IO Block: 4096   regular file
+Device: fe05h/65029d	Inode: 13768162    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    main)   Gid: ( 1000/    main)
+Access: 2019-10-01 22:33:56.752695759 -0700
+Modify: 2019-10-01 22:36:33.895586583 -0700
+Change: 2019-10-01 22:36:33.895586583 -0700
+ Birth: -
+
+
+  File: /var/log/journal/f5298e06c9e74d7093fc818f09b1bca7/
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: fe02h/65026d	Inode: 138512      Links: 2
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-10-01 22:36:23.583405776 -0700
+Modify: 2019-10-01 22:36:23.579405705 -0700
+Change: 2019-10-01 22:36:23.579405705 -0700
+ Birth: -
+  File: /home/main/PycharmProjects/CryptoCrumple/logs/log.bin
+  Size: 64430     	Blocks: 128        IO Block: 4096   regular file
+Device: fe05h/65029d	Inode: 13768162    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    main)   Gid: ( 1000/    main)
+Access: 2019-10-01 22:33:56.752695759 -0700
+Modify: 2019-10-01 22:36:56.495978963 -0700
+Change: 2019-10-01 22:36:56.495978963 -0700
+ Birth: -
+
+
+  File: /var/log/journal/f5298e06c9e74d7093fc818f09b1bca7/
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: fe02h/65026d	Inode: 138512      Links: 2
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-10-01 22:36:44.443770371 -0700
+Modify: 2019-10-01 22:36:44.443770371 -0700
+Change: 2019-10-01 22:36:44.443770371 -0700
+ Birth: -
+  File: /home/main/PycharmProjects/CryptoCrumple/logs/log.bin
+  Size: 75037     	Blocks: 152        IO Block: 4096   regular file
+Device: fe05h/65029d	Inode: 13768162    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    main)   Gid: ( 1000/    main)
+Access: 2019-10-01 22:33:56.752695759 -0700
+Modify: 2019-10-01 22:37:14.760292297 -0700
+Change: 2019-10-01 22:37:14.760292297 -0700
+ Birth: -
+
+
+  File: /var/log/journal/f5298e06c9e74d7093fc818f09b1bca7/
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: fe02h/65026d	Inode: 138512      Links: 2
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-10-01 22:37:15.276301102 -0700
+Modify: 2019-10-01 22:37:07.308164850 -0700
+Change: 2019-10-01 22:37:07.308164850 -0700
+ Birth: -
+  File: /home/main/PycharmProjects/CryptoCrumple/logs/log.bin
+  Size: 101181    	Blocks: 200        IO Block: 4096   regular file
+Device: fe05h/65029d	Inode: 13768162    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    main)   Gid: ( 1000/    main)
+Access: 2019-10-01 22:33:56.752695759 -0700
+Modify: 2019-10-01 22:37:53.668949142 -0700
+Change: 2019-10-01 22:37:53.668949142 -0700
+ Birth: -
+
+
+  File: /var/log/journal/f5298e06c9e74d7093fc818f09b1bca7/
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: fe02h/65026d	Inode: 138512      Links: 2
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-10-01 22:37:25.652477610 -0700
+Modify: 2019-10-01 22:37:25.652477610 -0700
+Change: 2019-10-01 22:37:25.652477610 -0700
+ Birth: -
+  File: /home/main/PycharmProjects/CryptoCrumple/logs/log.bin
+  Size: 140236    	Blocks: 280        IO Block: 4096   regular file
+Device: fe05h/65029d	Inode: 13768162    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    main)   Gid: ( 1000/    main)
+Access: 2019-10-01 22:33:56.752695759 -0700
+Modify: 2019-10-01 22:38:25.533476876 -0700
+Change: 2019-10-01 22:38:25.533476876 -0700
+ Birth: -
+
+
+  File: /var/log/journal/f5298e06c9e74d7093fc818f09b1bca7/
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: fe02h/65026d	Inode: 138512      Links: 2
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-10-01 22:38:05.681149128 -0700
+Modify: 2019-10-01 22:38:05.681149128 -0700
+Change: 2019-10-01 22:38:05.681149128 -0700
+ Birth: -
+  File: /home/main/PycharmProjects/CryptoCrumple/logs/log.bin
+  Size: 143145    	Blocks: 280        IO Block: 4096   regular file
+Device: fe05h/65029d	Inode: 13768162    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    main)   Gid: ( 1000/    main)
+Access: 2019-10-01 22:33:56.752695759 -0700
+Modify: 2019-10-01 22:38:37.809677873 -0700
+Change: 2019-10-01 22:38:37.809677873 -0700
+ Birth: -
+
+
+  File: /var/log/journal/f5298e06c9e74d7093fc818f09b1bca7/
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: fe02h/65026d	Inode: 138512      Links: 2
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-10-01 22:38:35.865646127 -0700
+Modify: 2019-10-01 22:38:35.861646062 -0700
+Change: 2019-10-01 22:38:35.861646062 -0700
+ Birth: -
+  File: /home/main/PycharmProjects/CryptoCrumple/logs/log.bin
+  Size: 146054    	Blocks: 288        IO Block: 4096   regular file
+Device: fe05h/65029d	Inode: 13768162    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    main)   Gid: ( 1000/    main)
+Access: 2019-10-01 22:33:56.752695759 -0700
+Modify: 2019-10-01 22:38:51.789905257 -0700
+Change: 2019-10-01 22:38:51.789905257 -0700
+ Birth: -
+
+
+  File: /var/log/journal/f5298e06c9e74d7093fc818f09b1bca7/
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: fe02h/65026d	Inode: 138512      Links: 2
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-10-01 22:38:48.069844907 -0700
+Modify: 2019-10-01 22:38:48.069844907 -0700
+Change: 2019-10-01 22:38:48.069844907 -0700
+ Birth: -
+  File: /home/main/PycharmProjects/CryptoCrumple/logs/log.bin
+  Size: 157372    	Blocks: 312        IO Block: 4096   regular file
+Device: fe05h/65029d	Inode: 13768162    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    main)   Gid: ( 1000/    main)
+Access: 2019-10-01 22:33:56.752695759 -0700
+Modify: 2019-10-01 22:39:08.938182030 -0700
+Change: 2019-10-01 22:39:08.938182030 -0700
+ Birth: -
+
+
+  File: /var/log/journal/f5298e06c9e74d7093fc818f09b1bca7/
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: fe02h/65026d	Inode: 138512      Links: 2
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-10-01 22:39:09.706194371 -0700
+Modify: 2019-10-01 22:39:02.642080680 -0700
+Change: 2019-10-01 22:39:02.642080680 -0700
+ Birth: -
+  File: /home/main/PycharmProjects/CryptoCrumple/logs/log.bin
+  Size: 194031    	Blocks: 392        IO Block: 4096   regular file
+Device: fe05h/65029d	Inode: 13768162    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    main)   Gid: ( 1000/    main)
+Access: 2019-10-01 22:33:56.752695759 -0700
+Modify: 2019-10-01 22:39:56.670940646 -0700
+Change: 2019-10-01 22:39:56.670940646 -0700
+ Birth: -
+
+
+  File: /var/log/journal/f5298e06c9e74d7093fc818f09b1bca7/
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: fe02h/65026d	Inode: 138512      Links: 2
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-10-01 22:39:19.970358878 -0700
+Modify: 2019-10-01 22:39:19.970358878 -0700
+Change: 2019-10-01 22:39:19.970358878 -0700
+ Birth: -
+  File: /home/main/PycharmProjects/CryptoCrumple/logs/log.bin
+  Size: 230663    	Blocks: 464        IO Block: 4096   regular file
+Device: fe05h/65029d	Inode: 13768162    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    main)   Gid: ( 1000/    main)
+Access: 2019-10-01 22:33:56.752695759 -0700
+Modify: 2019-10-01 22:40:27.159416666 -0700
+Change: 2019-10-01 22:40:27.159416666 -0700
+ Birth: -
+
+
+  File: /var/log/journal/f5298e06c9e74d7093fc818f09b1bca7/
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: fe02h/65026d	Inode: 138512      Links: 2
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-10-01 22:40:08.635128206 -0700
+Modify: 2019-10-01 22:40:08.635128206 -0700
+Change: 2019-10-01 22:40:08.635128206 -0700
+ Birth: -
+  File: /home/main/PycharmProjects/CryptoCrumple/logs/log.bin
+  Size: 240313    	Blocks: 480        IO Block: 4096   regular file
+Device: fe05h/65029d	Inode: 13768162    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    main)   Gid: ( 1000/    main)
+Access: 2019-10-01 22:33:56.752695759 -0700
+Modify: 2019-10-01 22:40:48.919752603 -0700
+Change: 2019-10-01 22:40:48.919752603 -0700
+ Birth: -
+
+
+  File: /var/log/journal/f5298e06c9e74d7093fc818f09b1bca7/
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: fe02h/65026d	Inode: 138512      Links: 2
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-10-01 22:40:52.171802546 -0700
+Modify: 2019-10-01 22:40:37.627578660 -0700
+Change: 2019-10-01 22:40:37.627578660 -0700
+ Birth: -
+  File: /home/main/PycharmProjects/CryptoCrumple/logs/log.bin
+  Size: 281210    	Blocks: 560        IO Block: 4096   regular file
+Device: fe05h/65029d	Inode: 13768162    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    main)   Gid: ( 1000/    main)
+Access: 2019-10-01 22:33:56.752695759 -0700
+Modify: 2019-10-01 22:41:42.292564026 -0700
+Change: 2019-10-01 22:41:42.292564026 -0700
+ Birth: -
+
+
+  File: /var/log/journal/f5298e06c9e74d7093fc818f09b1bca7/
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: fe02h/65026d	Inode: 138512      Links: 2
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-10-01 22:41:18.960211426 -0700
+Modify: 2019-10-01 22:41:01.135939864 -0700
+Change: 2019-10-01 22:41:01.135939864 -0700
+ Birth: -
+  File: /home/main/PycharmProjects/CryptoCrumple/logs/log.bin
+  Size: 286198    	Blocks: 568        IO Block: 4096   regular file
+Device: fe05h/65029d	Inode: 13768162    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    main)   Gid: ( 1000/    main)
+Access: 2019-10-01 22:33:56.752695759 -0700
+Modify: 2019-10-01 22:41:55.988769537 -0700
+Change: 2019-10-01 22:41:55.988769537 -0700
+ Birth: -
+
+
+  File: /var/log/journal/f5298e06c9e74d7093fc818f09b1bca7/
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: fe02h/65026d	Inode: 138512      Links: 2
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-10-01 22:41:52.812721975 -0700
+Modify: 2019-10-01 22:41:52.812721975 -0700
+Change: 2019-10-01 22:41:52.812721975 -0700
+ Birth: -
+  File: /home/main/PycharmProjects/CryptoCrumple/logs/log.bin
+  Size: 289107    	Blocks: 576        IO Block: 4096   regular file
+Device: fe05h/65029d	Inode: 13768162    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    main)   Gid: ( 1000/    main)
+Access: 2019-10-01 22:33:56.752695759 -0700
+Modify: 2019-10-01 22:42:10.080979892 -0700
+Change: 2019-10-01 22:42:10.080979892 -0700
+ Birth: -
+
+
+  File: /var/log/journal/f5298e06c9e74d7093fc818f09b1bca7/
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: fe02h/65026d	Inode: 138512      Links: 2
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-10-01 22:42:06.272923157 -0700
+Modify: 2019-10-01 22:42:06.272923157 -0700
+Change: 2019-10-01 22:42:06.272923157 -0700
+ Birth: -
+  File: /home/main/PycharmProjects/CryptoCrumple/logs/log.bin
+  Size: 292016    	Blocks: 584        IO Block: 4096   regular file
+Device: fe05h/65029d	Inode: 13768162    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    main)   Gid: ( 1000/    main)
+Access: 2019-10-01 22:33:56.752695759 -0700
+Modify: 2019-10-01 22:42:23.517179447 -0700
+Change: 2019-10-01 22:42:23.517179447 -0700
+ Birth: -
+
+
+  File: /var/log/journal/f5298e06c9e74d7093fc818f09b1bca7/
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: fe02h/65026d	Inode: 138512      Links: 2
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-10-01 22:42:20.509134856 -0700
+Modify: 2019-10-01 22:42:20.509134856 -0700
+Change: 2019-10-01 22:42:20.509134856 -0700
+ Birth: -
+  File: /home/main/PycharmProjects/CryptoCrumple/logs/log.bin
+  Size: 294925    	Blocks: 592        IO Block: 4096   regular file
+Device: fe05h/65029d	Inode: 13768162    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    main)   Gid: ( 1000/    main)
+Access: 2019-10-01 22:33:56.752695759 -0700
+Modify: 2019-10-01 22:42:37.517386361 -0700
+Change: 2019-10-01 22:42:37.517386361 -0700
+ Birth: -
+
+
+  File: /var/log/journal/f5298e06c9e74d7093fc818f09b1bca7/
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: fe02h/65026d	Inode: 138512      Links: 2
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-10-01 22:42:33.833332012 -0700
+Modify: 2019-10-01 22:42:33.833332012 -0700
+Change: 2019-10-01 22:42:33.833332012 -0700
+ Birth: -
+  File: /home/main/PycharmProjects/CryptoCrumple/logs/log.bin
+  Size: 306424    	Blocks: 608        IO Block: 4096   regular file
+Device: fe05h/65029d	Inode: 13768162    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    main)   Gid: ( 1000/    main)
+Access: 2019-10-01 22:33:56.752695759 -0700
+Modify: 2019-10-01 22:42:54.689638775 -0700
+Change: 2019-10-01 22:42:54.689638775 -0700
+ Birth: -
+
+
+  File: /var/log/journal/f5298e06c9e74d7093fc818f09b1bca7/
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: fe02h/65026d	Inode: 138512      Links: 2
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-10-01 22:42:48.385546285 -0700
+Modify: 2019-10-01 22:42:48.385546285 -0700
+Change: 2019-10-01 22:42:48.385546285 -0700
+ Birth: -
+  File: /home/main/PycharmProjects/CryptoCrumple/logs/log.bin
+  Size: 343083    	Blocks: 680        IO Block: 4096   regular file
+Device: fe05h/65029d	Inode: 13768162    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    main)   Gid: ( 1000/    main)
+Access: 2019-10-01 22:33:56.752695759 -0700
+Modify: 2019-10-01 22:43:26.442101660 -0700
+Change: 2019-10-01 22:43:26.442101660 -0700
+ Birth: -
+
+
+  File: /var/log/journal/f5298e06c9e74d7093fc818f09b1bca7/
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: fe02h/65026d	Inode: 138512      Links: 2
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-10-01 22:43:05.721800156 -0700
+Modify: 2019-10-01 22:43:05.721800156 -0700
+Change: 2019-10-01 22:43:05.721800156 -0700
+ Birth: -
+  File: /home/main/PycharmProjects/CryptoCrumple/logs/log.bin
+  Size: 345992    	Blocks: 688        IO Block: 4096   regular file
+Device: fe05h/65029d	Inode: 13768162    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    main)   Gid: ( 1000/    main)
+Access: 2019-10-01 22:33:56.752695759 -0700
+Modify: 2019-10-01 22:43:38.674278701 -0700
+Change: 2019-10-01 22:43:38.674278701 -0700
+ Birth: -
+
+
+  File: /var/log/journal/f5298e06c9e74d7093fc818f09b1bca7/
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: fe02h/65026d	Inode: 138512      Links: 2
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-10-01 22:43:36.726250553 -0700
+Modify: 2019-10-01 22:43:36.726250553 -0700
+Change: 2019-10-01 22:43:36.726250553 -0700
+ Birth: -
+  File: /home/main/PycharmProjects/CryptoCrumple/logs/log.bin
+  Size: 357283    	Blocks: 712        IO Block: 4096   regular file
+Device: fe05h/65029d	Inode: 13768162    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    main)   Gid: ( 1000/    main)
+Access: 2019-10-01 22:33:56.752695759 -0700
+Modify: 2019-10-01 22:44:01.442606424 -0700
+Change: 2019-10-01 22:44:01.442606424 -0700
+ Birth: -
+
+
+  File: /var/log/journal/f5298e06c9e74d7093fc818f09b1bca7/
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: fe02h/65026d	Inode: 138512      Links: 2
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-10-01 22:43:49.178430186 -0700
+Modify: 2019-10-01 22:43:49.178430186 -0700
+Change: 2019-10-01 22:43:49.178430186 -0700
+ Birth: -
+  File: /home/main/PycharmProjects/CryptoCrumple/logs/log.bin
+  Size: 367640    	Blocks: 728        IO Block: 4096   regular file
+Device: fe05h/65029d	Inode: 13768162    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    main)   Gid: ( 1000/    main)
+Access: 2019-10-01 22:33:56.752695759 -0700
+Modify: 2019-10-01 22:44:17.958842727 -0700
+Change: 2019-10-01 22:44:17.958842727 -0700
+ Birth: -
+
+
+  File: /var/log/journal/f5298e06c9e74d7093fc818f09b1bca7/
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: fe02h/65026d	Inode: 138512      Links: 2
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-10-01 22:44:12.254761249 -0700
+Modify: 2019-10-01 22:44:12.254761249 -0700
+Change: 2019-10-01 22:44:12.254761249 -0700
+ Birth: -
+  File: /home/main/PycharmProjects/CryptoCrumple/logs/log.bin
+  Size: 377997    	Blocks: 752        IO Block: 4096   regular file
+Device: fe05h/65029d	Inode: 13768162    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    main)   Gid: ( 1000/    main)
+Access: 2019-10-01 22:33:56.752695759 -0700
+Modify: 2019-10-01 22:44:39.047142765 -0700
+Change: 2019-10-01 22:44:39.047142765 -0700
+ Birth: -
+
+
+  File: /var/log/journal/f5298e06c9e74d7093fc818f09b1bca7/
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: fe02h/65026d	Inode: 138512      Links: 2
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-10-01 22:44:28.406991611 -0700
+Modify: 2019-10-01 22:44:28.406991611 -0700
+Change: 2019-10-01 22:44:28.406991611 -0700
+ Birth: -
+  File: /home/main/PycharmProjects/CryptoCrumple/logs/log.bin
+  Size: 388354    	Blocks: 768        IO Block: 4096   regular file
+Device: fe05h/65029d	Inode: 13768162    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    main)   Gid: ( 1000/    main)
+Access: 2019-10-01 22:33:56.752695759 -0700
+Modify: 2019-10-01 22:45:00.195441839 -0700
+Change: 2019-10-01 22:45:00.195441839 -0700
+ Birth: -
+
+
+  File: /var/log/journal/f5298e06c9e74d7093fc818f09b1bca7/
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: fe02h/65026d	Inode: 138512      Links: 2
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-10-01 22:44:50.083299059 -0700
+Modify: 2019-10-01 22:44:49.543291422 -0700
+Change: 2019-10-01 22:44:49.543291422 -0700
+ Birth: -
+  File: /home/main/PycharmProjects/CryptoCrumple/logs/log.bin
+  Size: 414498    	Blocks: 824        IO Block: 4096   regular file
+Device: fe05h/65029d	Inode: 13768162    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    main)   Gid: ( 1000/    main)
+Access: 2019-10-01 22:33:56.752695759 -0700
+Modify: 2019-10-01 22:45:38.235975448 -0700
+Change: 2019-10-01 22:45:38.235975448 -0700
+ Birth: -
+
+
+  File: /var/log/journal/f5298e06c9e74d7093fc818f09b1bca7/
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: fe02h/65026d	Inode: 138512      Links: 2
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-10-01 22:46:16.540507455 -0700
+Modify: 2019-10-01 22:46:16.540507455 -0700
+Change: 2019-10-01 22:46:16.540507455 -0700
+ Birth: -
+  File: /home/main/PycharmProjects/CryptoCrumple/logs/log.bin
+  Size: 442960    	Blocks: 880        IO Block: 4096   regular file
+Device: fe05h/65029d	Inode: 13768162    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    main)   Gid: ( 1000/    main)
+Access: 2019-10-01 22:33:56.752695759 -0700
+Modify: 2019-10-01 22:46:52.465001909 -0700
+Change: 2019-10-01 22:46:52.465001909 -0700
+ Birth: -
+
+
+  File: /var/log/journal/f5298e06c9e74d7093fc818f09b1bca7/
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: fe02h/65026d	Inode: 138512      Links: 2
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-10-01 22:46:41.396850015 -0700
+Modify: 2019-10-01 22:46:41.392849960 -0700
+Change: 2019-10-01 22:46:41.392849960 -0700
+ Birth: -
+  File: /home/main/PycharmProjects/CryptoCrumple/logs/log.bin
+  Size: 446408    	Blocks: 880        IO Block: 4096   regular file
+Device: fe05h/65029d	Inode: 13768162    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    main)   Gid: ( 1000/    main)
+Access: 2019-10-01 22:33:56.752695759 -0700
+Modify: 2019-10-01 22:47:04.845171354 -0700
+Change: 2019-10-01 22:47:04.845171354 -0700
+ Birth: -
+
+
+  File: /var/log/journal/f5298e06c9e74d7093fc818f09b1bca7/
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: fe02h/65026d	Inode: 138512      Links: 2
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-10-01 22:47:03.625154677 -0700
+Modify: 2019-10-01 22:47:02.869144340 -0700
+Change: 2019-10-01 22:47:02.869144340 -0700
+ Birth: -
+  File: /home/main/PycharmProjects/CryptoCrumple/logs/log.bin
+  Size: 484153    	Blocks: 960        IO Block: 4096   regular file
+Device: fe05h/65029d	Inode: 13768162    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    main)   Gid: ( 1000/    main)
+Access: 2019-10-01 22:33:56.752695759 -0700
+Modify: 2019-10-01 22:47:35.913594538 -0700
+Change: 2019-10-01 22:47:35.913594538 -0700
+ Birth: -
+
+
+  File: /var/log/journal/f5298e06c9e74d7093fc818f09b1bca7/
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: fe02h/65026d	Inode: 138512      Links: 2
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-10-01 22:47:44.877716114 -0700
+Modify: 2019-10-01 22:47:16.809334658 -0700
+Change: 2019-10-01 22:47:16.809334658 -0700
+ Birth: -
+  File: /home/main/PycharmProjects/CryptoCrumple/logs/log.bin
+  Size: 488188    	Blocks: 968        IO Block: 4096   regular file
+Device: fe05h/65029d	Inode: 13768162    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    main)   Gid: ( 1000/    main)
+Access: 2019-10-01 22:33:56.752695759 -0700
+Modify: 2019-10-01 22:47:51.609807268 -0700
+Change: 2019-10-01 22:47:51.609807268 -0700
+ Birth: -
+
+
+  File: /var/log/journal/f5298e06c9e74d7093fc818f09b1bca7/
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: fe02h/65026d	Inode: 138512      Links: 2
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-10-01 22:47:46.225734377 -0700
+Modify: 2019-10-01 22:47:46.225734377 -0700
+Change: 2019-10-01 22:47:46.225734377 -0700
+ Birth: -
+  File: /home/main/PycharmProjects/CryptoCrumple/logs/log.bin
+  Size: 491097    	Blocks: 968        IO Block: 4096   regular file
+Device: fe05h/65029d	Inode: 13768162    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    main)   Gid: ( 1000/    main)
+Access: 2019-10-01 22:33:56.752695759 -0700
+Modify: 2019-10-01 22:48:05.669997241 -0700
+Change: 2019-10-01 22:48:05.669997241 -0700
+ Birth: -
+
+
+  File: /var/log/journal/f5298e06c9e74d7093fc818f09b1bca7/
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: fe02h/65026d	Inode: 138512      Links: 2
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-10-01 22:48:02.021948003 -0700
+Modify: 2019-10-01 22:48:02.021948003 -0700
+Change: 2019-10-01 22:48:02.021948003 -0700
+ Birth: -
+  File: /home/main/PycharmProjects/CryptoCrumple/logs/log.bin
+  Size: 502596    	Blocks: 992        IO Block: 4096   regular file
+Device: fe05h/65029d	Inode: 13768162    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    main)   Gid: ( 1000/    main)
+Access: 2019-10-01 22:33:56.752695759 -0700
+Modify: 2019-10-01 22:48:28.726307606 -0700
+Change: 2019-10-01 22:48:28.726307606 -0700
+ Birth: -
+
+
+  File: /var/log/journal/f5298e06c9e74d7093fc818f09b1bca7/
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: fe02h/65026d	Inode: 138512      Links: 2
+Access: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2019-10-01 23:01:49.704538516 -0700
+Modify: 2019-10-01 23:01:44.284471413 -0700
+Change: 2019-10-01 23:01:44.284471413 -0700
+ Birth: -
+  File: /home/main/PycharmProjects/CryptoCrumple/logs/log.bin
+  Size: 635633    	Blocks: 1256       IO Block: 4096   regular file
+Device: fe05h/65029d	Inode: 13768162    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    main)   Gid: ( 1000/    main)
+Access: 2019-10-01 23:02:26.180989711 -0700
+Modify: 2019-10-01 23:02:46.569241606 -0700
+Change: 2019-10-01 23:02:46.569241606 -0700
+ Birth: -
+
+
+b'  File: /var/log/journal/f5298e06c9e74d7093fc818f09b1bca7/\n  Size: 4096      \tBlocks: 8          IO Block: 4096   directory\nDevice: fe02h/65026d\tInode: 138512      Links: 2\nAccess: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)\nAccess: 2019-10-01 23:04:36.806600278 -0700\nModify: 2019-10-01 23:04:36.806600278 -0700\nChange: 2019-10-01 23:04:36.806600278 -0700\n Birth: -\n'
+b'  File: /home/main/PycharmProjects/CryptoCrumple/logs/log.bin\n  Size: 662882    \tBlocks: 1304       IO Block: 4096   regular file\nDevice: fe05h/65029d\tInode: 13768162    Links: 1\nAccess: (0644/-rw-r--r--)  Uid: ( 1000/    main)   Gid: ( 1000/    main)\nAccess: 2019-10-01 23:03:15.785602222 -0700\nModify: 2019-10-01 23:05:13.963057103 -0700\nChange: 2019-10-01 23:05:13.963057103 -0700\n Birth: -\n'
+b'  File: /var/log/journal/f5298e06c9e74d7093fc818f09b1bca7/\n  Size: 4096      \tBlocks: 8          IO Block: 4096   directory\nDevice: fe02h/65026d\tInode: 138512      Links: 2\nAccess: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)\nAccess: 2019-10-01 23:05:04.218937353 -0700\nModify: 2019-10-01 23:05:04.218937353 -0700\nChange: 2019-10-01 23:05:04.218937353 -0700\n Birth: -\n'
+b'  File: /home/main/PycharmProjects/CryptoCrumple/logs/log.bin\n  Size: 673488    \tBlocks: 1328       IO Block: 4096   regular file\nDevice: fe05h/65029d\tInode: 13768162    Links: 1\nAccess: (0644/-rw-r--r--)  Uid: ( 1000/    main)   Gid: ( 1000/    main)\nAccess: 2019-10-01 23:05:30.499260246 -0700\nModify: 2019-10-01 23:05:33.527297434 -0700\nChange: 2019-10-01 23:05:33.527297434 -0700\n Birth: -\n'
+b'  File: /var/log/journal/f5298e06c9e74d7093fc818f09b1bca7/\n  Size: 4096      \tBlocks: 8          IO Block: 4096   directory\nDevice: fe02h/65026d\tInode: 138512      Links: 2\nAccess: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)\nAccess: 2019-10-01 23:06:09.379737508 -0700\nModify: 2019-10-01 23:06:09.379737508 -0700\nChange: 2019-10-01 23:06:09.379737508 -0700\n Birth: -\n'
+b'  File: /home/main/PycharmProjects/CryptoCrumple/logs/log.bin\n  Size: 688121    \tBlocks: 1352       IO Block: 4096   regular file\nDevice: fe05h/65029d\tInode: 13768162    Links: 1\nAccess: (0644/-rw-r--r--)  Uid: ( 1000/    main)   Gid: ( 1000/    main)\nAccess: 2019-10-01 23:05:47.351467172 -0700\nModify: 2019-10-01 23:06:33.592034464 -0700\nChange: 2019-10-01 23:06:33.592034464 -0700\n Birth: -\n'
+b'  File: /var/log/journal/f5298e06c9e74d7093fc818f09b1bca7/\n  Size: 4096      \tBlocks: 8          IO Block: 4096   directory\nDevice: fe02h/65026d\tInode: 138512      Links: 2\nAccess: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)\nAccess: 2019-10-01 23:06:27.171955742 -0700\nModify: 2019-10-01 23:06:27.171955742 -0700\nChange: 2019-10-01 23:06:27.171955742 -0700\n Birth: -\n'
+b'  File: /home/main/PycharmProjects/CryptoCrumple/logs/log.bin\n  Size: 691030    \tBlocks: 1360       IO Block: 4096   regular file\nDevice: fe05h/65029d\tInode: 13768162    Links: 1\nAccess: (0644/-rw-r--r--)  Uid: ( 1000/    main)   Gid: ( 1000/    main)\nAccess: 2019-10-01 23:05:47.351467172 -0700\nModify: 2019-10-01 23:06:47.316202705 -0700\nChange: 2019-10-01 23:06:47.316202705 -0700\n Birth: -\n'
+b'  File: /var/log/journal/f5298e06c9e74d7093fc818f09b1bca7/\n  Size: 4096      \tBlocks: 8          IO Block: 4096   directory\nDevice: fe02h/65026d\tInode: 138512      Links: 2\nAccess: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)\nAccess: 2019-10-01 23:06:43.916161031 -0700\nModify: 2019-10-01 23:06:43.916161031 -0700\nChange: 2019-10-01 23:06:43.916161031 -0700\n Birth: -\n'
+b'  File: /home/main/PycharmProjects/CryptoCrumple/logs/log.bin\n  Size: 702321    \tBlocks: 1384       IO Block: 4096   regular file\nDevice: fe05h/65029d\tInode: 13768162    Links: 1\nAccess: (0644/-rw-r--r--)  Uid: ( 1000/    main)   Gid: ( 1000/    main)\nAccess: 2019-10-01 23:06:58.672341874 -0700\nModify: 2019-10-01 23:07:04.624414801 -0700\nChange: 2019-10-01 23:07:04.624414801 -0700\n Birth: -\n'
+b'  File: /var/log/journal/f5298e06c9e74d7093fc818f09b1bca7/\n  Size: 4096      \tBlocks: 8          IO Block: 4096   directory\nDevice: fe02h/65026d\tInode: 138512      Links: 2\nAccess: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)\nAccess: 2019-10-01 23:06:58.032334032 -0700\nModify: 2019-10-01 23:06:58.032334032 -0700\nChange: 2019-10-01 23:06:58.032334032 -0700\n Birth: -\n'
+b'  File: /home/main/PycharmProjects/CryptoCrumple/logs/log.bin\n  Size: 712651    \tBlocks: 1400       IO Block: 4096   regular file\nDevice: fe05h/65029d\tInode: 13768162    Links: 1\nAccess: (0644/-rw-r--r--)  Uid: ( 1000/    main)   Gid: ( 1000/    main)\nAccess: 2019-10-01 23:06:58.672341874 -0700\nModify: 2019-10-01 23:07:25.844702288 -0700\nChange: 2019-10-01 23:07:25.844702288 -0700\n Birth: -\n'
+b'  File: /var/log/journal/f5298e06c9e74d7093fc818f09b1bca7/\n  Size: 4096      \tBlocks: 8          IO Block: 4096   directory\nDevice: fe02h/65026d\tInode: 138512      Links: 2\nAccess: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)\nAccess: 2019-10-01 23:07:15.328545926 -0700\nModify: 2019-10-01 23:07:15.328545926 -0700\nChange: 2019-10-01 23:07:15.328545926 -0700\n Birth: -\n'
+b'  File: /home/main/PycharmProjects/CryptoCrumple/logs/log.bin\n  Size: 723216    \tBlocks: 1424       IO Block: 4096   regular file\nDevice: fe05h/65029d\tInode: 13768162    Links: 1\nAccess: (0644/-rw-r--r--)  Uid: ( 1000/    main)   Gid: ( 1000/    main)\nAccess: 2019-10-01 23:06:58.672341874 -0700\nModify: 2019-10-01 23:07:45.897002278 -0700\nChange: 2019-10-01 23:07:45.897002278 -0700\n Birth: -\n'
+b'  File: /var/log/journal/f5298e06c9e74d7093fc818f09b1bca7/\n  Size: 4096      \tBlocks: 8          IO Block: 4096   directory\nDevice: fe02h/65026d\tInode: 138512      Links: 2\nAccess: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)\nAccess: 2019-10-01 23:07:37.844882054 -0700\nModify: 2019-10-01 23:07:36.544862613 -0700\nChange: 2019-10-01 23:07:36.544862613 -0700\n Birth: -\n'
+b'  File: /home/main/PycharmProjects/CryptoCrumple/logs/log.bin\n  Size: 761158    \tBlocks: 1496       IO Block: 4096   regular file\nDevice: fe05h/65029d\tInode: 13768162    Links: 1\nAccess: (0644/-rw-r--r--)  Uid: ( 1000/    main)   Gid: ( 1000/    main)\nAccess: 2019-10-01 23:06:58.672341874 -0700\nModify: 2019-10-01 23:08:16.857461661 -0700\nChange: 2019-10-01 23:08:16.857461661 -0700\n Birth: -\n'
+b'  File: /var/log/journal/f5298e06c9e74d7093fc818f09b1bca7/\n  Size: 4096      \tBlocks: 8          IO Block: 4096   directory\nDevice: fe02h/65026d\tInode: 138512      Links: 2\nAccess: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)\nAccess: 2019-10-01 23:07:57.673177543 -0700\nModify: 2019-10-01 23:07:57.673177543 -0700\nChange: 2019-10-01 23:07:57.673177543 -0700\n Birth: -\n'
+b'  File: /home/main/PycharmProjects/CryptoCrumple/logs/log.bin\n  Size: 798168    \tBlocks: 1568       IO Block: 4096   regular file\nDevice: fe05h/65029d\tInode: 13768162    Links: 1\nAccess: (0644/-rw-r--r--)  Uid: ( 1000/    main)   Gid: ( 1000/    main)\nAccess: 2019-10-01 23:06:58.672341874 -0700\nModify: 2019-10-01 23:08:50.637957901 -0700\nChange: 2019-10-01 23:08:50.637957901 -0700\n Birth: -\n'
+b'  File: /var/log/journal/f5298e06c9e74d7093fc818f09b1bca7/\n  Size: 4096      \tBlocks: 8          IO Block: 4096   directory\nDevice: fe02h/65026d\tInode: 138512      Links: 2\nAccess: (0755/drwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)\nAccess: 2019-10-01 23:08:27.969625459 -0700\nModify: 2019-10-01 23:08:27.969625459 -0700\nChange: 2019-10-01 23:08:27.969625459 -0700\n Birth: -\n'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

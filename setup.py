@@ -6,7 +6,6 @@ setup(name='CryptoCrumple',
       author="Matt Duran",
       author_email="matduran@pdx.edu",
       url="https://github.com/mattkduran/CryptoCrumple/",
-      packages=['cryptocrumple'],
       classifiers=[
         'Intended Audience :: Developers',
         'Natural Language :: English',

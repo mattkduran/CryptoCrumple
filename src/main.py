@@ -7,7 +7,6 @@ def main():
     checkFail = systemCheck.checkup()
     if checkFail == 0:
         print("System check passed, loading menu...")
-        service()
         menu()
     else:
         print("System check up failed.\nReference error codes to verify problem.")
@@ -15,3 +14,4 @@ def main():
 ##########################
 
 main()
+quit()
